@@ -1,0 +1,5572 @@
+[
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$9Kd3SCbFEnt0GCqYNy6MXD$TEe5i5jc7kCgcGZAWSUzN2jTmJzuTBFH8bo7aX+ldYI=",
+    "last_login": "2025-06-12T09:46:44.958Z",
+    "is_superuser": true,
+    "username": "udemy",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-04-21T09:51:33.706Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$RdRQGXvkbqEMpwlXnARYHZ$DWJNW9nCfYgnVMDNNCEx8H0Oqdg3Pvua6t+whHA8W84=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "afsana@gmail.com",
+    "first_name": "thilothama",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-19T09:49:09.500Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$8GSx0n2i2IiGzGDXN2p1Zo$xfasD8BIhEELWJ06TVpl32qrI31SrF9/j972MmzmkjI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "sajjad@gmail.com",
+    "first_name": "sajjad",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-19T09:59:20.147Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$yAWg3ZRacsV5JI30gN3nOQ$f2JdqrbPEhsquU4UZiT+frTSr+eUDaVslU9VcEbPqXM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "sajjjad@gmail.com",
+    "first_name": "sajjad",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-19T10:09:52.521Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$cB9dOdGVFDX5cnYkgLhO6W$TaYc+KeeFN8DBByO+ohdiwtu8U9iebnvXdHYiyzqkns=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "sajjjjad@gmail.com",
+    "first_name": "sajjad",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-19T10:13:58.042Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$vRLubVnARMbdU9HA0bDtP3$tMf0RHtIU7bxlCKQgwEfLQWy6McwXsySrdH7yCSXt/4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "afu@gmail.com",
+    "first_name": "afnan",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-19T10:14:32.677Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "90vzotgfk7g7880ack6hektf4us30281",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxNzElfc5grXfXOIAcKU4qxN1JpBTQzsx7bxFhW0vcGi9xInEVSlx-WQJ8cj0EPaDeZ4lzXZcpySORp21ynIlft7P9OyjQyr52SlvSlC0Y1Qc2fnAIHHRSSCZk8uRzp5xGpoxmMM75HbMHCBZ76MTnC-dZODk:1u6npV:XYjspYr4H8abo4UEyZ5jql1vVWV5HT5ISoYb0ZliqSg",
+    "expire_date": "2025-05-05T09:52:45.090Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "bjkq0ujlhrigavq42x3fsxlwpzw5locn",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxNzElfc5grXfXOIAcKU4qxN1JpBTQzsx7bxFhW0vcGi9xInEVSlx-WQJ8cj0EPaDeZ4lzXZcpySORp21ynIlft7P9OyjQyr52SlvSlC0Y1Qc2fnAIHHRSSCZk8uRzp5xGpoxmMM75HbMHCBZ76MTnC-dZODk:1uPeWC:yMIzsl6ivL_hYaPEwGzGOPuCizqmAoYB5UJtmeRZC9k",
+    "expire_date": "2025-06-26T09:46:44.959Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "haqepb7l0mnfkolwpmhp2ub9y5qnt2xa",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxNzElfc5grXfXOIAcKU4qxN1JpBTQzsx7bxFhW0vcGi9xInEVSlx-WQJ8cj0EPaDeZ4lzXZcpySORp21ynIlft7P9OyjQyr52SlvSlC0Y1Qc2fnAIHHRSSCZk8uRzp5xGpoxmMM75HbMHCBZ76MTnC-dZODk:1u8w7w:bx_VyfySx14fBXt-wNJSK6edgBF0ga1CNzeZ02pIoJw",
+    "expire_date": "2025-05-11T07:08:36.486Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "t2nu1y9qitg68c140dj4t70glgshz34y",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxNzElfc5grXfXOIAcKU4qxN1JpBTQzsx7bxFhW0vcGi9xInEVSlx-WQJ8cj0EPaDeZ4lzXZcpySORp21ynIlft7P9OyjQyr52SlvSlC0Y1Qc2fnAIHHRSSCZk8uRzp5xGpoxmMM75HbMHCBZ76MTnC-dZODk:1uCuSI:6iGUo-kRfMx6iynnOx2EzAcX-Rl681sVuV5Q9By0WLc",
+    "expire_date": "2025-05-22T06:10:02.477Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "tx984jhdqizm6ozlvkrjc13j9qtd5eb5",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxNzElfc5grXfXOIAcKU4qxN1JpBTQzsx7bxFhW0vcGi9xInEVSlx-WQJ8cj0EPaDeZ4lzXZcpySORp21ynIlft7P9OyjQyr52SlvSlC0Y1Qc2fnAIHHRSSCZk8uRzp5xGpoxmMM75HbMHCBZ76MTnC-dZODk:1u8Cai:7TSni7Kl0mTN5PlUFNuTsfQTO9QbuBkcjSOZc2CM9Bg",
+    "expire_date": "2025-05-09T06:31:16.033Z"
+  }
+},
+{
+  "model": "courses.maincategory",
+  "pk": 1,
+  "fields": {
+    "name": "Data Science",
+    "slug": "data-science"
+  }
+},
+{
+  "model": "courses.maincategory",
+  "pk": 2,
+  "fields": {
+    "name": "IT Certifications",
+    "slug": "it-certifications"
+  }
+},
+{
+  "model": "courses.maincategory",
+  "pk": 3,
+  "fields": {
+    "name": "Leadership",
+    "slug": "leadership"
+  }
+},
+{
+  "model": "courses.maincategory",
+  "pk": 4,
+  "fields": {
+    "name": "Web Development",
+    "slug": "web-development"
+  }
+},
+{
+  "model": "courses.maincategory",
+  "pk": 5,
+  "fields": {
+    "name": "Communication",
+    "slug": "communication"
+  }
+},
+{
+  "model": "courses.maincategory",
+  "pk": 6,
+  "fields": {
+    "name": "Business Analytics & Intelligence",
+    "slug": "business-analytics-and-intelligence"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 1,
+  "fields": {
+    "main_category": 1,
+    "name": "ChatGPT",
+    "slug": "chatgpt",
+    "learners_count": "4M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 2,
+  "fields": {
+    "main_category": 1,
+    "name": "Data Science",
+    "slug": "data-science",
+    "learners_count": "7M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 3,
+  "fields": {
+    "main_category": 1,
+    "name": "Python",
+    "slug": "python",
+    "learners_count": "47.7M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 4,
+  "fields": {
+    "main_category": 1,
+    "name": "Machine Learning",
+    "slug": "machine-learning",
+    "learners_count": "8M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 5,
+  "fields": {
+    "main_category": 1,
+    "name": "Deep Learning",
+    "slug": "deep-learning",
+    "learners_count": "2M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 6,
+  "fields": {
+    "main_category": 1,
+    "name": "Artificial Intelligence(AI)",
+    "slug": "artificial-intelligence",
+    "learners_count": "4M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 7,
+  "fields": {
+    "main_category": 1,
+    "name": "Statitics",
+    "slug": "statitics",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 8,
+  "fields": {
+    "main_category": 1,
+    "name": "Natural Language Processing(NLP)",
+    "slug": "natural-language-processing",
+    "learners_count": "819,700+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 9,
+  "fields": {
+    "main_category": 2,
+    "name": "Amazon AWS",
+    "slug": "amazon-aws",
+    "learners_count": "4M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 10,
+  "fields": {
+    "main_category": 2,
+    "name": "AWS Certified Cloud Practitioner",
+    "slug": "aws-certified-cloud-practitioner",
+    "learners_count": "2M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 11,
+  "fields": {
+    "main_category": 2,
+    "name": "AZ:900: Microsoft Azure Fundamentals",
+    "slug": "microsoft-azure-fundamentals",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 12,
+  "fields": {
+    "main_category": 2,
+    "name": "AWS Certified Solutions Architect - Associate",
+    "slug": "aws-certified-solutions-architect",
+    "learners_count": "3M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 13,
+  "fields": {
+    "main_category": 2,
+    "name": "Kubernetes",
+    "slug": "kubernetes",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 14,
+  "fields": {
+    "main_category": 2,
+    "name": "AWS Certified Developer - Associate",
+    "slug": "aws-certified-developer",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 15,
+  "fields": {
+    "main_category": 2,
+    "name": "Cisco Certified Network Associate (CCNA)",
+    "slug": "cisco-certified-network-associate",
+    "learners_count": "3M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 16,
+  "fields": {
+    "main_category": 2,
+    "name": "CompTIA Security+",
+    "slug": "comptia-security",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 17,
+  "fields": {
+    "main_category": 3,
+    "name": "Leadership",
+    "slug": "leadership",
+    "learners_count": "2M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 18,
+  "fields": {
+    "main_category": 3,
+    "name": "Management Skills",
+    "slug": "management-skills",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 19,
+  "fields": {
+    "main_category": 3,
+    "name": "Project Management",
+    "slug": "project-management",
+    "learners_count": "4M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 20,
+  "fields": {
+    "main_category": 3,
+    "name": "Personal Productivity",
+    "slug": "personal-productivity",
+    "learners_count": "2M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 21,
+  "fields": {
+    "main_category": 3,
+    "name": "Emotional Intelligence",
+    "slug": "emotional-intelligence",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 22,
+  "fields": {
+    "main_category": 3,
+    "name": "Digital Transformation",
+    "slug": "digital-transformation",
+    "learners_count": "392.100+ learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 23,
+  "fields": {
+    "main_category": 3,
+    "name": "Business Strategy",
+    "slug": "business-strategy",
+    "learners_count": "2M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 24,
+  "fields": {
+    "main_category": 3,
+    "name": "Conflict Management",
+    "slug": "conflict-management",
+    "learners_count": "258,300+ learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 25,
+  "fields": {
+    "main_category": 4,
+    "name": "Web Development",
+    "slug": "web-development",
+    "learners_count": "14.4M+ learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 26,
+  "fields": {
+    "main_category": 4,
+    "name": "JavaScript",
+    "slug": "javascript",
+    "learners_count": "17.7M+ learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 27,
+  "fields": {
+    "main_category": 4,
+    "name": "React JS",
+    "slug": "react-js",
+    "learners_count": "8M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 28,
+  "fields": {
+    "main_category": 4,
+    "name": "Angular",
+    "slug": "angular",
+    "learners_count": "4M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 29,
+  "fields": {
+    "main_category": 4,
+    "name": "Java",
+    "slug": "java",
+    "learners_count": "16.6M+ learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 30,
+  "fields": {
+    "main_category": 4,
+    "name": "Android Development",
+    "slug": "android-development",
+    "learners_count": "8M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 31,
+  "fields": {
+    "main_category": 4,
+    "name": "iOS Development",
+    "slug": "ios-development",
+    "learners_count": "4M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 32,
+  "fields": {
+    "main_category": 4,
+    "name": "CSS",
+    "slug": "css",
+    "learners_count": "9M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 33,
+  "fields": {
+    "main_category": 5,
+    "name": "Communication Skills",
+    "slug": "communication-skills",
+    "learners_count": "2M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 34,
+  "fields": {
+    "main_category": 5,
+    "name": "Presentation Skills",
+    "slug": "presentation-skills",
+    "learners_count": "2M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 35,
+  "fields": {
+    "main_category": 5,
+    "name": "Public Speaking",
+    "slug": "public-speaking",
+    "learners_count": "3M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 36,
+  "fields": {
+    "main_category": 5,
+    "name": "Writing",
+    "slug": "writing",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 37,
+  "fields": {
+    "main_category": 5,
+    "name": "PowerPoint",
+    "slug": "powerpoint",
+    "learners_count": "2M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 38,
+  "fields": {
+    "main_category": 5,
+    "name": "Business Communication",
+    "slug": "business-communication",
+    "learners_count": "423,700+ learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 39,
+  "fields": {
+    "main_category": 5,
+    "name": "Business Writing",
+    "slug": "business-writing",
+    "learners_count": "290800+ learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 40,
+  "fields": {
+    "main_category": 5,
+    "name": "Email Writing and Etiquette",
+    "slug": "email-writing-and-etiquette",
+    "learners_count": "386,400+ learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 41,
+  "fields": {
+    "main_category": 6,
+    "name": "Microsoft Excel",
+    "slug": "microsoft-excel",
+    "learners_count": "18.8M+ learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 42,
+  "fields": {
+    "main_category": 6,
+    "name": "SQL",
+    "slug": "sql",
+    "learners_count": "8M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 43,
+  "fields": {
+    "main_category": 6,
+    "name": "Microsoft POwer BI",
+    "slug": "microsoft-power-bi",
+    "learners_count": "4M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 44,
+  "fields": {
+    "main_category": 6,
+    "name": "Data Analysis",
+    "slug": "data-analysis",
+    "learners_count": "4M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 45,
+  "fields": {
+    "main_category": 6,
+    "name": "Business Analysis",
+    "slug": "business-analysis",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 46,
+  "fields": {
+    "main_category": 6,
+    "name": "Tableau",
+    "slug": "tableau",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 47,
+  "fields": {
+    "main_category": 6,
+    "name": "Data Visualization",
+    "slug": "data-visualization",
+    "learners_count": "1M+  learners"
+  }
+},
+{
+  "model": "courses.subcategory",
+  "pk": 48,
+  "fields": {
+    "main_category": 6,
+    "name": "Data Modeling",
+    "slug": "data-modeling",
+    "learners_count": "593,400+ learners"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 2,
+  "fields": {
+    "sub_category": 1,
+    "title": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "description": "50+ Generative AI Tools to 10x Business, Productivity, Creativity | ChatGPT, Artificial Intelligence, Prompt Engineering",
+    "price": "2799",
+    "rating": "courses/rating/4.5-star.png",
+    "rating_point": "4.5",
+    "video": "videos/videoplayback_XOgE2Ba.mp4",
+    "reviews": "47,164",
+    "image": "courses/course1.jpg",
+    "premium": true,
+    "best_seller": true,
+    "created_by": "Julian Melanson, Benza Maman, Leap Year Learning...",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T04:50:41.148Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 3,
+  "fields": {
+    "sub_category": 1,
+    "title": "The Complete AI-Powered Copywriting Course & ChatGPT Course",
+    "description": "Become a Pro Copywriter with the Complete Copywriting and Content Marketing Course. Use ChatGPT. Get 70+ Pro Templates.",
+    "price": "3299",
+    "rating": "courses/rating/4-star.png",
+    "rating_point": "4.2",
+    "video": "videos/videoplayback2_YhuPLru.mp4",
+    "reviews": "1,857",
+    "image": "courses/course2.webp",
+    "premium": true,
+    "best_seller": false,
+    "created_by": "Ing. Tomáš Morávek, Learn Digital Advertising",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T04:50:53.126Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 4,
+  "fields": {
+    "sub_category": 1,
+    "title": "ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants",
+    "description": "Ultimate ChatGPT, MJ, Gemini & DeepSeek course for digital marketers. Master AI to streamline your marketing tasks.",
+    "price": "999",
+    "rating": "courses/rating/4_2QGhYjx.5-star.png",
+    "rating_point": "4.6",
+    "video": "videos/Managing_Across_Generations_BijtU59.mp4",
+    "reviews": "588",
+    "image": "courses/course3.webp",
+    "premium": true,
+    "best_seller": false,
+    "created_by": "Anton Voroniuk, Anton Voroniuk Support, Eugene Voroniuk",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:40:02.173Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 5,
+  "fields": {
+    "sub_category": 1,
+    "title": "Upgrade Your Social Media Presence with ChatGPT",
+    "description": "Complete social media marketing tasks and automate your work routine with AI-powered ChatGPT",
+    "price": "799",
+    "rating": "courses/rating/4_ilwwdML.5-star.png",
+    "rating_point": "4.7",
+    "video": "videos/Identify_Your_Leadership_Wobble_to_Work_Faster_and_Better_ABE4mmN.mp4",
+    "reviews": "281",
+    "image": "courses/course4.webp",
+    "premium": true,
+    "best_seller": false,
+    "created_by": "Anton Voroniuk, Anton Voroniuk Support",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:40:09.845Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 6,
+  "fields": {
+    "sub_category": 1,
+    "title": "Mastering SEO With ChatGPT: Ultimate Beginner's Guide",
+    "description": "Learn how to supercharge your SEO efforts with the help of AI-powered tool",
+    "price": "799",
+    "rating": "courses/rating/4_FJf3wLK.5-star.png",
+    "rating_point": "4.4",
+    "video": "videos/Full_Episode__Cultivating_Curiosity_Will_Expand_Your_Brain_DwefEuk.mp4",
+    "reviews": "305",
+    "image": "courses/course5.jpg",
+    "premium": true,
+    "best_seller": true,
+    "created_by": "Anton Voroniuk, Anton Voroniuk Support",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:40:25.317Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 7,
+  "fields": {
+    "sub_category": 1,
+    "title": "ChatGPT, Midjourney, DALL-E 3 & APIs - The Complete Guide",
+    "description": "10x your productivity via ChatGPT & Generative AI. Master prompt engineering, API use, Midjourney & much more!",
+    "price": "999",
+    "rating": "courses/rating/4_dGrW3bk.5-star.png",
+    "rating_point": "4.6",
+    "video": "videos/Defining_Your_Purpose_moFdSS9.mp4",
+    "reviews": "24,111",
+    "image": "courses/course6.jpg",
+    "premium": true,
+    "best_seller": false,
+    "created_by": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller, Manuel Lorenz",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:40:36.390Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 8,
+  "fields": {
+    "sub_category": 2,
+    "title": "The Data Science Course: Complete Data Science Bootcamp 2025",
+    "description": "Complete Data Science Training: Math, Statistics, Python, Advanced Statistics in Python, Machine and Deep Learning",
+    "price": "3999",
+    "rating": "courses/rating/4_chIuNZM.5-star.png",
+    "rating_point": "4.6",
+    "video": "videos/videoplayback2_ZOLKicW.mp4",
+    "reviews": "152,708",
+    "image": "courses/data-science1.jpg",
+    "premium": true,
+    "best_seller": true,
+    "created_by": "365 Careers",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:40:43.142Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 9,
+  "fields": {
+    "sub_category": 2,
+    "title": "Python for Data Science and Machine Learning Bootcamp",
+    "description": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+    "price": "4699",
+    "rating": "courses/rating/4_zbbEerI.5-star.png",
+    "rating_point": "4.6",
+    "video": "videos/videoplayback_ong9yG2.mp4",
+    "reviews": "150,860",
+    "image": "courses/data-science2.webp",
+    "premium": true,
+    "best_seller": true,
+    "created_by": "Jose Portilla, Pierian Training",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:40:52.230Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 10,
+  "fields": {
+    "sub_category": 2,
+    "title": "R Programming A-Z™: R For Data Science With Real Exercises!",
+    "description": "Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2",
+    "price": "4699",
+    "rating": "courses/rating/4_eNQyxwH.5-star.png",
+    "rating_point": "4.5",
+    "video": "videos/Identify_Your_Leadership_Wobble_to_Work_Faster_and_Better_YYS3O1E.mp4",
+    "reviews": "55,787",
+    "image": "courses/data-science3.webp",
+    "premium": true,
+    "best_seller": true,
+    "created_by": "Kirill Eremenko, SuperDataScience Team, Ligency Team",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:41:10.207Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 11,
+  "fields": {
+    "sub_category": 3,
+    "title": "The Complete Python Bootcamp From Zero to Hero in Python",
+    "description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+    "price": "3099",
+    "rating": "courses/rating/4_0t2BhcU.5-star.png",
+    "rating_point": "4.6",
+    "video": "videos/Managing_Across_Generations_oL2wJnX.mp4",
+    "reviews": "535,722",
+    "image": "courses/python1.webp",
+    "premium": true,
+    "best_seller": false,
+    "created_by": "Jose Portilla, Pierian Training",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:41:16.758Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 12,
+  "fields": {
+    "sub_category": 3,
+    "title": "100 Days of Code: The Complete Python Pro Bootcamp",
+    "description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+    "price": "3299",
+    "rating": "courses/rating/4_WPCZsBi.5-star.png",
+    "rating_point": "4.7",
+    "video": "videos/Defining_Your_Purpose_tcStl9j.mp4",
+    "reviews": "367,617",
+    "image": "courses/python2.webp",
+    "premium": true,
+    "best_seller": true,
+    "created_by": "Dr. Angela Yu, Developer and Lead Instructor",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:41:24.902Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 13,
+  "fields": {
+    "sub_category": 3,
+    "title": "Automate the Boring Stuff with Python Programming",
+    "description": "A practical programming course for office workers, academics, and administrators who want to improve their productivity.",
+    "price": "3999",
+    "rating": "courses/rating/4_ActrDRW.5-star.png",
+    "rating_point": "4.6",
+    "video": "videos/Full_Episode__Cultivating_Curiosity_Will_Expand_Your_Brain_ENtA10V.mp4",
+    "reviews": "116,284",
+    "image": "courses/python3.webp",
+    "premium": true,
+    "best_seller": false,
+    "created_by": "Al Sweigart",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:41:38.023Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 14,
+  "fields": {
+    "sub_category": 4,
+    "title": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]",
+    "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+    "price": "3999",
+    "rating": "courses/rating/4_FztsuAy.5-star.png",
+    "rating_point": "4.5",
+    "video": "videos/videoplayback_FkrabQ8.mp4",
+    "reviews": "196,369",
+    "image": "courses/machine1.jpg",
+    "premium": true,
+    "best_seller": true,
+    "created_by": "Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Ligency Team",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:42:15.271Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 15,
+  "fields": {
+    "sub_category": 4,
+    "title": "Python for Data Science and Machine Learning Bootcamp",
+    "description": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+    "price": "4699",
+    "rating": "courses/rating/4_embPKc5.5-star.png",
+    "rating_point": "4.6",
+    "video": "videos/Managing_Across_Generations_ifHwwfO.mp4",
+    "reviews": "150,860",
+    "image": "courses/data-science2_rSFNkPM.webp",
+    "premium": true,
+    "best_seller": true,
+    "created_by": "Jose Portilla, Pierian Training",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-18T11:48:47.669Z"
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 16,
+  "fields": {
+    "sub_category": 4,
+    "title": "Machine Learning & Deep Learning in Python & R",
+    "description": "Covers Regression, Decision Trees, SVM, Neural Networks, CNN, Time Series Forecasting and more using both Python & R",
+    "price": "3999",
+    "rating": "courses/rating/4_8xDOocf.5-star.png",
+    "rating_point": "4.4",
+    "video": "videos/videoplayback2_kzTeiRB.mp4",
+    "reviews": "5,831",
+    "image": "courses/machine2.webp",
+    "premium": true,
+    "best_seller": false,
+    "created_by": "Start-Tech Academy",
+    "created_at": "2025-05-15T10:43:06.524Z",
+    "updated_at": "2025-06-13T05:42:06.830Z"
+  }
+},
+{
+  "model": "testimonial.testimonial",
+  "pk": 1,
+  "fields": {
+    "name": "Diksha S",
+    "content": "Because of this course I was able to clear my two interviews... Thanks for making such wonderful content.",
+    "course": 2,
+    "profile": "testimonial/avatarDS.png"
+  }
+},
+{
+  "model": "testimonial.testimonial",
+  "pk": 2,
+  "fields": {
+    "name": "Chethan B",
+    "content": "This has helped me so much in my career...I joined as a frontend engineer and eventually transitioned to full stack engineer with the help of this course.",
+    "course": 34,
+    "profile": "testimonial/avatarCB.webp"
+  }
+},
+{
+  "model": "testimonial.testimonial",
+  "pk": 3,
+  "fields": {
+    "name": "Batchu K",
+    "content": "Today, I am a software developer, and I credit a significant part of my success to the solid foundation laid by this course.",
+    "course": 44,
+    "profile": "testimonial/avatarBK.webp"
+  }
+},
+{
+  "model": "testimonial.testimonial",
+  "pk": 4,
+  "fields": {
+    "name": "Ankit K",
+    "content": "I would highly recommend this Web Development Bootcamp to anyone interested in pursuing a career in web development or looking to enhance their skills in this field.",
+    "course": 25,
+    "profile": "testimonial/avatarAK.webp"
+  }
+},
+{
+  "model": "testimonial.story",
+  "pk": 1,
+  "fields": {
+    "title": "Booz Allen Hamilton Unlocks Talent Retention and Productivity Through Upskilling",
+    "stat_1_percent": "93%",
+    "stat_1_text": "retention rate among participating employees",
+    "stat_2_percent": "65%",
+    "stat_2_text": "of learners noted a positive impact on their productivity",
+    "image": "story/Booz_Allen_image.webp",
+    "description": "In recent years, organizations in all industries—from health, to national security, to finance, to energy—have realized the benefits of employing highlyskilled technical talent. Consequently, the demand for such talent has exploded, making it very difficult to recruit and retain these individuals. In fact, the demand for certain skill sets literally outweighs the supply.\r\n\r\nLooking within Booz Allen, many employees with the necessary technical skillsets did not have the required clearance levels; and conversely, few with the required clearance level had the necessary technical skills. As a result, sold and funded positions often remained unfilled, sometimes for several months and even at the cost of the loss of the contract. The firm quickly realized that to position itself as a leading provider of solutions in technology, it would need to aggressively commit to reskilling and upskilling existing and newly hired employees.\r\n\r\nThe Learning and Development (L&D) team partnered with leaders across multiple business units and talent acquisition to determine where greatest needs existed across the workforce. The team analyzed volume of unfilled job requisitions to determine hard-to-fill jobs, interviewed leaders challenged with lack of qualified candidates, and assessed reasons why cleared applicants did not complete hiring process. Data showed the firm experienced talent shortages in four technical domains – 1) Data Science, 2) Cyber Engineering, 3) Modern Software Development, and 4) Cloud Engineering.",
+    "company_icon": "story/icons/logo-boozallenhamilton-2.png",
+    "created_at": "2025-05-14T09:40:38.638Z"
+  }
+},
+{
+  "model": "testimonial.story",
+  "pk": 2,
+  "fields": {
+    "title": "Capital One Accelerates Transformational Learning through Udemy Business",
+    "stat_1_percent": "95%",
+    "stat_1_text": "of learners rated Udemy as “very helpful” to their success",
+    "stat_2_percent": "65%",
+    "stat_2_text": "increase in retention for in-demand tech roles",
+    "image": "story/capitalone-2x.webp",
+    "description": "With a large workforce of over 50,000 spread across several countries, Capital One uses a mix of online and instructor-led Learning and Development (L&D) programming. Associates receive a wide range of innovative learning resources and experiences, helping Capital One attract, develop, and retain the best talent and deliver on its business strategies.\r\n\r\nOne of the ways Capital One has invested in L&D is through Tech College. Developed in 2017, Tech College serves as the company’s internal tech-learning program and was designed as a way to keep engineers, product managers, and designers up-to-date on cutting-edge technology skills that could aid in the development of new products and applications.\r\n\r\nLed by Capital One’s Senior Director of Technology Learning, Eric Lawson, Tech College has expanded in size and scope since achieving the company’s cloud-based transformation. As Lawson explains, “We use Tech College to help reskill and upskill our associates and ensure all new Capital One tech associates — both recent college graduates and experienced hires — are equipped with the right resources and training for success.”",
+    "company_icon": "story/icons/logo-capitalone-2.png",
+    "created_at": "2025-05-14T09:42:36.931Z"
+  }
+},
+{
+  "model": "testimonial.story",
+  "pk": 3,
+  "fields": {
+    "title": "Eventbrite Navigates Change Through Skill-Building and Leadership Development",
+    "stat_1_percent": "4800+",
+    "stat_1_text": "increase in employee enrollments for professional development courses",
+    "stat_2_percent": "65%",
+    "stat_2_text": "revenue growth supported by a business model backed by learning",
+    "image": "story/eventbrite-2x.webp",
+    "description": "Since the company was founded, the core business focused on providing sales and services to support a diverse spectrum of live and in-person events such as musical concerts, holiday festivals, networking events and conferences, recreational, wellness and hobby classes, and several community and cultural events. The Covid 19 pandemic put a sudden halt to all in-person events and upended Eventbrite’s business model.\r\n\r\nWith in-person events seeming implausible in the near future, the company needed to rapidly pivot to online events and services. This implied a shift from a sales and marketing focus to developing deep expertise as a product engineering company. Eventbrite needed to rapidly transform and rebuild its business model, restructure jobs and roles, and embark on a drastic skill-shift journey to support this change.\r\n\r\nJohn Adcock, Eventbrite’s Chief People Officer explains, “Our business came to a standstill when the pandemic struck. We needed to restructure and transform the business, and it required us to rethink our budget spend. We strongly believe that our investments in learning are indeed investments, and not costs. The Eventbrite team unanimously agreed to continue investing in skill development with Udemy rather than cutting back, reinforcing our focus on our people over processes.",
+    "company_icon": "story/icons/logo-eventbrite-1.png",
+    "created_at": "2025-05-14T09:45:01.308Z"
+  }
+},
+{
+  "model": "testimonial.story",
+  "pk": 4,
+  "fields": {
+    "title": "Toyota Tsusho Enhances its L&D Program to Improve Employee Outcomes",
+    "stat_1_percent": "50%",
+    "stat_1_text": "training cost reduction per person",
+    "stat_2_percent": "+7000",
+    "stat_2_text": "hours of upskilling",
+    "image": "story/toyota-2x.webp",
+    "description": "TTSPH covers eight countries across the South Pacific region. They are authorised distributors of Toyota, Hino, Yamaha, Massey Ferguson and other quality products, as well as used vehicles, car rentals and petrol stations, enhancing the business model of TTSPH across the South Pacific.\r\n\r\nAs a large group operating across culturally and geographically diverse countries, TTSPH’s employee L&D program is broad and relied upon by over a thousand people. However, with primarily face-to-face classroom-based, instructor-led training, the company struggled to offer flexible alternatives to provide continuous learning despite travel restrictions.\r\n\r\nIn fact, a bi-annual employee survey of L&D requirements highlighted a significant need for ongoing staff development for employees, not just frontline and technical staff, without needing to attend the company’s regional training centers. In addition, TTSPH identified that its existing training program could only be accessed on request, providing slow, expensive and ad hoc training rather than a continuous on demand program.\r\n\r\nTTSPH wanted to offer wideranging professional and personal L&D in a way that supported its response to COVID-19 remote working and without stretching training budgets. The company needed an online learning solution that could offer a broad range of content and support its dispersed employees’ nuanced objectives.",
+    "company_icon": "story/icons/logo-toyota-1.png",
+    "created_at": "2025-05-14T09:47:08.420Z"
+  }
+},
+{
+  "model": "testimonial.review",
+  "pk": 1,
+  "fields": {
+    "name": "Brandon L.",
+    "initials": "BL",
+    "rating": "reviews/4-star_HP3NBQN.png",
+    "time_ago": "2025-06-12T10:52:26.705Z",
+    "description": "Good course, if you plow through it. Would recommend breaking up into several different courses under the umbrella of \"The Complete AI Guide\""
+  }
+},
+{
+  "model": "testimonial.review",
+  "pk": 2,
+  "fields": {
+    "name": "Sebastian M.",
+    "initials": "SM",
+    "rating": "reviews/4-star_b4bpLV2.png",
+    "time_ago": "2025-06-12T10:53:31.928Z",
+    "description": "For this price, it should be be more deep in to every course, feel so superficial. I believe if I want to do more I have to fin myself the way to do things."
+  }
+},
+{
+  "model": "testimonial.review",
+  "pk": 3,
+  "fields": {
+    "name": "Antonio V.",
+    "initials": "AV",
+    "rating": "reviews/5-star_B8UB2C5.png",
+    "time_ago": "2025-06-12T10:53:54.034Z",
+    "description": "Muy bueno y completo, aunque requiere una actualización continua con los nuevos avances."
+  }
+},
+{
+  "model": "testimonial.review",
+  "pk": 4,
+  "fields": {
+    "name": "Chris A.",
+    "initials": "CA",
+    "rating": "reviews/5-star_lbiTCq7.png",
+    "time_ago": "2025-06-12T10:54:19.328Z",
+    "description": "Amazing coarse! I have been part of amazing brands. Anyone who is serious about learning what’s out there. This is a great place to start!"
+  }
+},
+{
+  "model": "testimonial.review",
+  "pk": 5,
+  "fields": {
+    "name": "Noriko K.",
+    "initials": "NK",
+    "rating": "reviews/5-star_7fjvg54.png",
+    "time_ago": "2025-06-12T10:54:50.698Z",
+    "description": "The extensive scope of information presented in this course is impressive, offering a highly efficient route to acquiring a broad understanding of the subject. While it requires a significant time investment, the depth of knowledge provided is considerabl"
+  }
+},
+{
+  "model": "testimonial.review",
+  "pk": 6,
+  "fields": {
+    "name": "Andrew S.",
+    "initials": "AS",
+    "rating": "reviews/4-star_se1U2U4.png",
+    "time_ago": "2025-06-12T10:55:15.530Z",
+    "description": "Covered a lot of AI topics and is helpful to know what tools exist. For me as a Technical Program Manger, all the music and picture AI tools are not as interesting for my role unless I am hired into a product line that is based on that type of work."
+  }
+},
+{
+  "model": "testimonial.review",
+  "pk": 7,
+  "fields": {
+    "name": "Bryan F.",
+    "initials": "BF",
+    "rating": "reviews/4_Jn0gBSg.5-star.png",
+    "time_ago": "2025-06-12T10:55:42.683Z",
+    "description": "This course opened my eyes to a wide range of AI platforms I hadn't heard of before. It was a great introduction with plenty of useful insights."
+  }
+},
+{
+  "model": "testimonial.review",
+  "pk": 8,
+  "fields": {
+    "name": "Waqqas M.",
+    "initials": "WM",
+    "rating": "reviews/5-star_vhavWRZ.png",
+    "time_ago": "2025-06-12T10:56:19.547Z",
+    "description": "Very informative, Mostly the variety of content at one place being the best part about this course. Forced me to try domains that one might not explore and also helping for future Creer opportunities. Thank you very much."
+  }
+},
+{
+  "model": "testimonial.review",
+  "pk": 9,
+  "fields": {
+    "name": "William D S.",
+    "initials": "WD",
+    "rating": "reviews/4_rRAs4wn.5-star.png",
+    "time_ago": "2025-06-12T10:57:26.652Z",
+    "description": "The session encompassed a substantial amount of information, which could have been conveyed more effectively if segmented into smaller, more manageable parts."
+  }
+},
+{
+  "model": "testimonial.review",
+  "pk": 10,
+  "fields": {
+    "name": "Wayne S.",
+    "initials": "WS",
+    "rating": "reviews/5-star_ADurumH.png",
+    "time_ago": "2025-06-12T10:57:46.341Z",
+    "description": "Definitely a ton of actionable and useful information."
+  }
+},
+{
+  "model": "content.section",
+  "pk": 1,
+  "fields": {
+    "title": "Complete AI Guide Introduction"
+  }
+},
+{
+  "model": "content.section",
+  "pk": 2,
+  "fields": {
+    "title": "ChatGPT: Prompt Engineering and Custom 17 Page Prompting Guide PDF"
+  }
+},
+{
+  "model": "content.section",
+  "pk": 3,
+  "fields": {
+    "title": "ChatGPT: Enhancements, Extensions, and Advanced Features"
+  }
+},
+{
+  "model": "content.section",
+  "pk": 4,
+  "fields": {
+    "title": "CustomGPTs: Create Your Own Custom Versions of ChatGPT"
+  }
+},
+{
+  "model": "content.section",
+  "pk": 5,
+  "fields": {
+    "title": "ChatGPT Mobile App: Access the Power of ChatGPT from Your Phone"
+  }
+},
+{
+  "model": "content.section",
+  "pk": 6,
+  "fields": {
+    "title": "ChatGPT: How LLM's Work, How GPT Was Trained, and How GPT Generates Outputs"
+  }
+},
+{
+  "model": "content.section",
+  "pk": 7,
+  "fields": {
+    "title": "Microsoft Copilot Introduction: Integrated AI Workflow"
+  }
+},
+{
+  "model": "content.section",
+  "pk": 8,
+  "fields": {
+    "title": "Google Bard (Gemini): Fundamentals and Creative Text Generation"
+  }
+},
+{
+  "model": "content.section",
+  "pk": 9,
+  "fields": {
+    "title": "Overview: AI Tool Integrations, Combining Multiple Tools, and Free AI Tools"
+  }
+},
+{
+  "model": "content.section",
+  "pk": 10,
+  "fields": {
+    "title": "Course Conclusion and What's Next"
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 1,
+  "fields": {
+    "section": 1,
+    "title": "Start Here First (Important Course Details)",
+    "duration": "00:03:28",
+    "is_preview": true
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 2,
+  "fields": {
+    "section": 1,
+    "title": "Your First Steps with AI and Effective Prompting",
+    "duration": "00:07:27",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 3,
+  "fields": {
+    "section": 1,
+    "title": "Creatively Crafting Your Prompts",
+    "duration": "00:09:19",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 4,
+  "fields": {
+    "section": 1,
+    "title": "5 Practical GPT Use Cases",
+    "duration": "00:06:26",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 5,
+  "fields": {
+    "section": 2,
+    "title": "Effectively Creating Prompts",
+    "duration": "00:06:06",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 6,
+  "fields": {
+    "section": 2,
+    "title": "Modifiers for Better Outputs",
+    "duration": "00:02:44",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 7,
+  "fields": {
+    "section": 2,
+    "title": "Prompt Priming",
+    "duration": "00:03:42",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 8,
+  "fields": {
+    "section": 2,
+    "title": "Zero, One, and Few Shot Prompting",
+    "duration": "00:02:24",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 9,
+  "fields": {
+    "section": 2,
+    "title": "Perspective Prompting",
+    "duration": "00:04:02",
+    "is_preview": true
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 10,
+  "fields": {
+    "section": 2,
+    "title": "Constructive Critic Prompting",
+    "duration": "00:03:10",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 11,
+  "fields": {
+    "section": 2,
+    "title": "I Want You To Act As Prompting",
+    "duration": "00:03:31",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 12,
+  "fields": {
+    "section": 2,
+    "title": "Client Emails, Analogies, and Bulk Writing",
+    "duration": "00:03:39",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 13,
+  "fields": {
+    "section": 2,
+    "title": "Ask Before Answer Prompting",
+    "duration": "00:03:49",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 14,
+  "fields": {
+    "section": 3,
+    "title": "Custom Instructions Part 1",
+    "duration": "00:07:16",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 15,
+  "fields": {
+    "section": 3,
+    "title": "Custom Instructions Part 2",
+    "duration": "00:01:52",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 16,
+  "fields": {
+    "section": 3,
+    "title": "ChatGPT-4o: Image Input and Output Capabilities",
+    "duration": "00:05:26",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 17,
+  "fields": {
+    "section": 3,
+    "title": "ChatGPT-4o with Canvas: Interactive Visual Workspace",
+    "duration": "00:05:44",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 18,
+  "fields": {
+    "section": 3,
+    "title": "ChatGPT-4: DALL-E 3",
+    "duration": "00:04:33",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 19,
+  "fields": {
+    "section": 3,
+    "title": "ChatGPT Tokens Explained (Older Model)",
+    "duration": "00:06:12",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 20,
+  "fields": {
+    "section": 3,
+    "title": "ChatGPT: Projects",
+    "duration": "00:07:15",
+    "is_preview": true
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 21,
+  "fields": {
+    "section": 4,
+    "title": "ntroduction to CustomGPTs",
+    "duration": "00:03:59",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 22,
+  "fields": {
+    "section": 4,
+    "title": "Create Your Own CustomGPT",
+    "duration": "00:10:27",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 23,
+  "fields": {
+    "section": 4,
+    "title": "CustomGPTs Case Study: Viral GPT",
+    "duration": "00:07:30",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 24,
+  "fields": {
+    "section": 4,
+    "title": "GPT Store",
+    "duration": "00:04:15",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 25,
+  "fields": {
+    "section": 4,
+    "title": "Create Your Own Business Assistant",
+    "duration": "00:05:50",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 26,
+  "fields": {
+    "section": 4,
+    "title": "Prompt for CustomGPT Business Assistant",
+    "duration": "00:01:28",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 27,
+  "fields": {
+    "section": 4,
+    "title": "Retrieval Augmented Generation (RAG): Key to Custom Business Chatbots",
+    "duration": "00:05:26",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 28,
+  "fields": {
+    "section": 5,
+    "title": "ChatGPT Mobile App: Overview",
+    "duration": "00:02:23",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 29,
+  "fields": {
+    "section": 5,
+    "title": "ChatGPT Mobile App: Modes",
+    "duration": "00:02:46",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 30,
+  "fields": {
+    "section": 5,
+    "title": "ChatGPT Mobile App: Speaking and Listening",
+    "duration": "00:04:03",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 31,
+  "fields": {
+    "section": 5,
+    "title": "ChatGPT Mobile App: Interface Update",
+    "duration": "00:01:56",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 32,
+  "fields": {
+    "section": 5,
+    "title": "ChatGPT: Advanced Voice Capabilities",
+    "duration": "00:09:50",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 33,
+  "fields": {
+    "section": 6,
+    "title": "Intro to LLM's Section",
+    "duration": "00:01:22",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 34,
+  "fields": {
+    "section": 6,
+    "title": "Overview and Main Types of LLM's",
+    "duration": "00:05:18",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 35,
+  "fields": {
+    "section": 6,
+    "title": "How GPT Answers Your Questions",
+    "duration": "00:09:37",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 36,
+  "fields": {
+    "section": 6,
+    "title": "What is Transformer Architecture",
+    "duration": "00:12:30",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 37,
+  "fields": {
+    "section": 7,
+    "title": "Introduction to Microsoft Copilot",
+    "duration": "00:03:34",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 38,
+  "fields": {
+    "section": 7,
+    "title": "Microsoft Copilot Features and Functionality",
+    "duration": "00:03:46",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 39,
+  "fields": {
+    "section": 8,
+    "title": "Gemini Has Replaced Google Bard",
+    "duration": "00:00:22",
+    "is_preview": true
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 40,
+  "fields": {
+    "section": 8,
+    "title": "Google Bard (Gemini): Fundamentals Part 1",
+    "duration": "00:07:24",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 41,
+  "fields": {
+    "section": 8,
+    "title": "Google Bard (Gemini): Fundamentals Part 2",
+    "duration": "00:09:24",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 42,
+  "fields": {
+    "section": 8,
+    "title": "Google Bard (Gemini): Instantly Gather Web Based Information",
+    "duration": "00:03:46",
+    "is_preview": true
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 43,
+  "fields": {
+    "section": 9,
+    "title": "Intro to Using Multiple AI Tools",
+    "duration": "00:00:55",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 44,
+  "fields": {
+    "section": 9,
+    "title": "Combining Multiple AI Tools",
+    "duration": "00:01:29",
+    "is_preview": true
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 45,
+  "fields": {
+    "section": 9,
+    "title": "Completely Free AI Tools and Resources",
+    "duration": "00:00:15",
+    "is_preview": false
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 46,
+  "fields": {
+    "section": 10,
+    "title": "Congratulations on Completing this Course!",
+    "duration": "00:00:30",
+    "is_preview": true
+  }
+},
+{
+  "model": "content.lecture",
+  "pk": 47,
+  "fields": {
+    "section": 10,
+    "title": "Bonus Lecture",
+    "duration": "00:00:43",
+    "is_preview": true
+  }
+},
+{
+  "model": "services.servicecategory",
+  "pk": 1,
+  "fields": {
+    "title": "Professional Services"
+  }
+},
+{
+  "model": "services.servicecategory",
+  "pk": 2,
+  "fields": {
+    "title": "Manufacturing"
+  }
+},
+{
+  "model": "services.servicecategory",
+  "pk": 3,
+  "fields": {
+    "title": "Technology"
+  }
+},
+{
+  "model": "services.servicecategory",
+  "pk": 4,
+  "fields": {
+    "title": "Financial Services"
+  }
+},
+{
+  "model": "services.service",
+  "pk": 1,
+  "fields": {
+    "service_category": 1,
+    "title": "Driving profitability through faster staffing and cost optimization",
+    "stat_1_percent": "66%",
+    "stat_1_text": "faster new talent onboarding",
+    "brand_1": "Publicis Sapient",
+    "stat_2_percent": "93%",
+    "stat_2_text": "etention rate for learning program graduates",
+    "brand_2": "Booz Allen Hamilton",
+    "image": "story/professional-services-tab.webp"
+  }
+},
+{
+  "model": "services.service",
+  "pk": 2,
+  "fields": {
+    "service_category": 2,
+    "title": "Achieve end-to-end supply chain excellence",
+    "stat_1_percent": "200K",
+    "stat_1_text": "cost savings",
+    "brand_1": "Best Transformer",
+    "stat_2_percent": "400+",
+    "stat_2_text": "applications migrated to the cloud",
+    "brand_2": "Jabil",
+    "image": "story/manufacturing-tab.webp"
+  }
+},
+{
+  "model": "services.service",
+  "pk": 3,
+  "fields": {
+    "service_category": 3,
+    "title": "Innovate faster with employees certified on in-demand skills",
+    "stat_1_percent": "50%",
+    "stat_1_text": "faster technical upskilling of critical talent",
+    "brand_1": "Sopra Steria",
+    "stat_2_percent": "20%",
+    "stat_2_text": "reduction in time to train and onboard employees",
+    "brand_2": "msg.global",
+    "image": "story/technology-tab.webp"
+  }
+},
+{
+  "model": "services.service",
+  "pk": 4,
+  "fields": {
+    "service_category": 4,
+    "title": "Grow the bottom line with investments in employee skills",
+    "stat_1_percent": "67%",
+    "stat_1_text": "faster onboarding of product engineers",
+    "brand_1": "Kushki",
+    "stat_2_percent": "$21K",
+    "stat_2_text": "cost savings from reduced certification training expenses",
+    "brand_2": "Kushki",
+    "image": "story/financial-services-tab.webp"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-04-25T08:38:31.260Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "maincategory"
+    ],
+    "object_id": "1",
+    "object_repr": "Data Science",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-04-25T08:38:53.854Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "maincategory"
+    ],
+    "object_id": "2",
+    "object_repr": "IT Certifications",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-04-25T08:39:17.253Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "maincategory"
+    ],
+    "object_id": "3",
+    "object_repr": "Leadership",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-04-25T08:39:41.174Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "maincategory"
+    ],
+    "object_id": "4",
+    "object_repr": "Web Development",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-04-25T08:40:07.215Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "maincategory"
+    ],
+    "object_id": "5",
+    "object_repr": "Communication",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-04-25T08:40:53.959Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "maincategory"
+    ],
+    "object_id": "6",
+    "object_repr": "Business Analytics & Intelligence",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-04-25T09:44:13.156Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "1",
+    "object_repr": "Data Science → ChatGPT",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-04-25T09:54:08.745Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "1",
+    "object_repr": "Data Science → ChatGPT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Learners count\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-04-25T09:54:37.361Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "2",
+    "object_repr": "Data Science → Data Science",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-04-25T09:55:19.545Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "3",
+    "object_repr": "Data Science → Python",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-04-25T09:56:06.900Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "4",
+    "object_repr": "Data Science → Machine Learning",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-04-25T09:56:42.467Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "5",
+    "object_repr": "Data Science → Deep Learning",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-04-25T09:57:35.075Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "6",
+    "object_repr": "Data Science → Artificial Intelligence(AI)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-04-25T09:57:57.924Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "7",
+    "object_repr": "Data Science → Statitics",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-04-25T09:59:09.495Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "8",
+    "object_repr": "Data Science → Natural Language Processing(NLP)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-04-25T10:02:58.634Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "9",
+    "object_repr": "IT Certifications → Amazon AWS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-04-25T10:03:59.106Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "10",
+    "object_repr": "IT Certifications → AWS Certified Cloud Practitioner",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-04-25T10:05:28.019Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "11",
+    "object_repr": "IT Certifications → AZ:900: Microsoft Azure Fundamentals",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-04-25T10:06:44.244Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "12",
+    "object_repr": "IT Certifications → AWS Certified Solutions Architect - Associate",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-04-25T10:07:20.373Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "13",
+    "object_repr": "IT Certifications → Kubernetes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-04-25T10:08:06.654Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "14",
+    "object_repr": "IT Certifications → AWS Certified Developer - Associate",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-04-25T10:09:00.967Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "15",
+    "object_repr": "IT Certifications → Cisco Certified Network Associate (CCNA)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-04-25T10:09:51.599Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "16",
+    "object_repr": "IT Certifications → CompTIA Security+",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-04-27T09:50:17.634Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "17",
+    "object_repr": "Leadership → Leadership",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-04-27T09:50:57.850Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "18",
+    "object_repr": "Leadership → Management Skills",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-04-27T09:51:46.788Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "19",
+    "object_repr": "Leadership → Project Management",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-04-27T09:52:40.418Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "20",
+    "object_repr": "Leadership → Personal Productivity",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-05-08T06:21:22.058Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "1",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-05-08T06:45:53.601Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "1",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-05-08T06:59:50.717Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "2",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-05-08T07:10:06.663Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "2",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Reviews\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-05-08T08:28:21.589Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "3",
+    "object_repr": "The Complete AI-Powered Copywriting Course & ChatGPT Course",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-05-08T08:29:58.298Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "4",
+    "object_repr": "ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-05-08T08:31:25.009Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "5",
+    "object_repr": "Upgrade Your Social Media Presence with ChatGPT",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-05-08T08:32:43.215Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "6",
+    "object_repr": "Mastering SEO With ChatGPT: Ultimate Beginner's Guide",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-05-08T08:34:03.082Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "7",
+    "object_repr": "ChatGPT, Midjourney, DALL-E 3 & APIs - The Complete Guide",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-05-08T09:39:10.525Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "3",
+    "object_repr": "The Complete AI-Powered Copywriting Course & ChatGPT Course",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating point\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-05-08T09:54:33.910Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "2",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Premium\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-05-08T09:58:30.885Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "2",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Best seller\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-05-08T09:59:18.852Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "3",
+    "object_repr": "The Complete AI-Powered Copywriting Course & ChatGPT Course",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Premium\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-05-08T09:59:23.751Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "4",
+    "object_repr": "ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Premium\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-05-08T09:59:28.262Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "5",
+    "object_repr": "Upgrade Your Social Media Presence with ChatGPT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Premium\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-05-08T09:59:42.533Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "6",
+    "object_repr": "Mastering SEO With ChatGPT: Ultimate Beginner's Guide",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Premium\", \"Best seller\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-05-08T09:59:46.893Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "7",
+    "object_repr": "ChatGPT, Midjourney, DALL-E 3 & APIs - The Complete Guide",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Premium\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-05-09T06:12:19.786Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "21",
+    "object_repr": "Leadership → Emotional Intelligence",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-05-09T06:13:09.587Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "22",
+    "object_repr": "Leadership → Digital Transformation",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-05-09T06:13:44.826Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "23",
+    "object_repr": "Leadership → Business Strategy",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-05-09T06:16:22.573Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "24",
+    "object_repr": "Leadership → Conflict Management",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-05-09T06:16:39.509Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "22",
+    "object_repr": "Leadership → Digital Transformation",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Learners count\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-05-09T06:16:46.382Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "24",
+    "object_repr": "Leadership → Conflict Management",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Learners count\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-05-09T06:31:40.966Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "25",
+    "object_repr": "Web Development → Web Development",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-05-09T06:32:13.991Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "26",
+    "object_repr": "Web Development → JavaScript",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-05-09T06:32:35.960Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "27",
+    "object_repr": "Web Development → React JS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-05-09T06:32:53.680Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "28",
+    "object_repr": "Web Development → Angular",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-05-09T06:33:16.664Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "29",
+    "object_repr": "Web Development → Java",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-05-09T06:33:46.434Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "30",
+    "object_repr": "Web Development → Android Development",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-05-09T06:34:23.201Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "31",
+    "object_repr": "Web Development → iOS Development",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-05-09T06:34:45.064Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "32",
+    "object_repr": "Web Development → CSS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-05-09T06:35:30.801Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "33",
+    "object_repr": "Communication → Communication Skills",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-05-09T06:36:00.169Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "34",
+    "object_repr": "Communication → Presentation Skills",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-05-09T06:36:32.161Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "35",
+    "object_repr": "Communication → Public Speaking",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2025-05-09T06:36:50.385Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "36",
+    "object_repr": "Communication → Writing",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2025-05-09T06:37:14.249Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "37",
+    "object_repr": "Communication → PowerPoint",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2025-05-09T06:37:57.660Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "38",
+    "object_repr": "Communication → Business Communication",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2025-05-09T06:38:54.443Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "39",
+    "object_repr": "Communication → Business Writing",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2025-05-09T06:39:45.451Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "40",
+    "object_repr": "Communication → Email Writing and Etiquette",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2025-05-09T06:40:44.020Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "41",
+    "object_repr": "Business Analytics & Intelligence → Microsoft Excel",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2025-05-09T06:40:59.404Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "42",
+    "object_repr": "Business Analytics & Intelligence → SQL",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2025-05-09T06:41:28.487Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "43",
+    "object_repr": "Business Analytics & Intelligence → Microsoft POwer BI",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2025-05-09T06:41:50.108Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "44",
+    "object_repr": "Business Analytics & Intelligence → Data Analysis",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2025-05-09T06:42:18.902Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "45",
+    "object_repr": "Business Analytics & Intelligence → Business Analysis",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2025-05-09T06:42:41.972Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "46",
+    "object_repr": "Business Analytics & Intelligence → Tableau",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2025-05-09T06:43:09.157Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "47",
+    "object_repr": "Business Analytics & Intelligence → Data Visualization",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2025-05-09T06:43:49.271Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "48",
+    "object_repr": "Business Analytics & Intelligence → Data Modeling",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2025-05-09T06:57:26.186Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "8",
+    "object_repr": "The Data Science Course: Complete Data Science Bootcamp 2025",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2025-05-09T06:58:25.718Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "9",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2025-05-09T06:59:27.126Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "10",
+    "object_repr": "R Programming A-Z™: R For Data Science With Real Exercises!",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2025-05-09T06:59:42.739Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "9",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Premium\", \"Best seller\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2025-05-09T07:25:04.114Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "11",
+    "object_repr": "The Complete Python Bootcamp From Zero to Hero in Python",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2025-05-09T07:26:19.421Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "12",
+    "object_repr": "100 Days of Code: The Complete Python Pro Bootcamp",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2025-05-09T07:27:56.758Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "13",
+    "object_repr": "Automate the Boring Stuff with Python Programming",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2025-05-09T07:29:29.622Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "14",
+    "object_repr": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2025-05-09T07:30:44.367Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "15",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2025-05-09T07:31:45.152Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "16",
+    "object_repr": "Machine Learning & Deep Learning in Python & R",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2025-05-13T10:49:24.308Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "reviews",
+      "testimonial"
+    ],
+    "object_id": "1",
+    "object_repr": "Diksha S",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2025-05-13T10:55:48.075Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "reviews",
+      "testimonial"
+    ],
+    "object_id": "2",
+    "object_repr": "Chethan B",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2025-05-13T10:56:15.651Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "reviews",
+      "testimonial"
+    ],
+    "object_id": "3",
+    "object_repr": "Batchu K",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2025-05-13T10:57:02.260Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "reviews",
+      "testimonial"
+    ],
+    "object_id": "4",
+    "object_repr": "Ankit K",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2025-05-13T11:00:06.904Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "reviews",
+      "testimonial"
+    ],
+    "object_id": "5",
+    "object_repr": "Ankit K",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2025-05-13T11:03:18.720Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "reviews",
+      "testimonial"
+    ],
+    "object_id": "4",
+    "object_repr": "Ankit K",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Course\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2025-05-13T11:03:45.255Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "reviews",
+      "testimonial"
+    ],
+    "object_id": "5",
+    "object_repr": "Ankit K",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Course\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2025-05-13T11:54:36.981Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonials",
+      "testimonial"
+    ],
+    "object_id": "1",
+    "object_repr": "Diksha S",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2025-05-13T11:55:12.523Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonials",
+      "testimonial"
+    ],
+    "object_id": "2",
+    "object_repr": "Chethan B",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2025-05-13T11:55:47.901Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonials",
+      "testimonial"
+    ],
+    "object_id": "3",
+    "object_repr": "Batchu K",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2025-05-13T11:56:13.980Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonials",
+      "testimonial"
+    ],
+    "object_id": "4",
+    "object_repr": "Ankit K",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2025-05-14T04:26:26.429Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "testimonial"
+    ],
+    "object_id": "1",
+    "object_repr": "Diksha's testimonial for Data Science",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2025-05-14T04:26:54.047Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "testimonial"
+    ],
+    "object_id": "2",
+    "object_repr": "Chethan's testimonial for Presentation Skills",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2025-05-14T04:27:27.231Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "testimonial"
+    ],
+    "object_id": "3",
+    "object_repr": "Batchu's testimonial for Data Analysis",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2025-05-14T04:27:58.111Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "testimonial"
+    ],
+    "object_id": "4",
+    "object_repr": "Ankit's testimonial for AWS Certified Cloud Practitioner",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2025-05-14T04:55:52.364Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "testimonial"
+    ],
+    "object_id": "4",
+    "object_repr": "Ankit K's testimonial for AWS Certified Cloud Practitioner",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2025-05-14T04:55:58.933Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "testimonial"
+    ],
+    "object_id": "3",
+    "object_repr": "Batchu K's testimonial for Data Analysis",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2025-05-14T04:56:28.716Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "testimonial"
+    ],
+    "object_id": "2",
+    "object_repr": "Chethan B's testimonial for Presentation Skills",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2025-05-14T04:56:38.693Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "testimonial"
+    ],
+    "object_id": "1",
+    "object_repr": "Diksha S's testimonial for Data Science",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2025-05-14T05:22:02.988Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "testimonial"
+    ],
+    "object_id": "4",
+    "object_repr": "Ankit K's testimonial for Kubernetes",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Course\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2025-05-14T05:49:41.246Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "testimonial"
+    ],
+    "object_id": "4",
+    "object_repr": "Ankit K's testimonial for Web Development",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Course\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2025-05-14T09:40:38.639Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "1",
+    "object_repr": "Toyota Tsusho Enhances its L&D Program to Improve Employee Outcomes 50% training cost reduction per person +7,000 hours of upskilling   Booz Allen Hamilton Unlocks Talent Retention and Productivity Th",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2025-05-14T09:42:36.932Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "2",
+    "object_repr": "Capital One Accelerates Transformational Learning through Udemy Business",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2025-05-14T09:45:01.308Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "3",
+    "object_repr": "Eventbrite Navigates Change Through Skill-Building and Leadership Development",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2025-05-14T09:47:08.421Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "4",
+    "object_repr": "Toyota Tsusho Enhances its L&D Program to Improve Employee Outcomes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2025-05-14T10:56:59.937Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "1",
+    "object_repr": "Booz Allen Hamilton Unlocks Talent Retention and Productivity Through Upskilling",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2025-05-14T11:08:59.743Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "1",
+    "object_repr": "Booz Allen Hamilton Unlocks Talent Retention and Productivity Through Upskilling",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Stat 1 percent\", \"Stat 2 percent\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2025-05-14T11:09:09.551Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "2",
+    "object_repr": "Capital One Accelerates Transformational Learning through Udemy Business",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Stat 1 percent\", \"Stat 2 percent\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2025-05-14T11:09:18.182Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "3",
+    "object_repr": "Eventbrite Navigates Change Through Skill-Building and Leadership Development",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Stat 1 percent\", \"Stat 2 percent\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2025-05-14T11:09:27.495Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "4",
+    "object_repr": "Toyota Tsusho Enhances its L&D Program to Improve Employee Outcomes",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Stat 1 percent\", \"Stat 2 percent\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2025-05-15T10:00:28.873Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "15",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2025-05-15T10:00:54.133Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "2",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2025-05-15T10:02:45.031Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "3",
+    "object_repr": "The Complete AI-Powered Copywriting Course & ChatGPT Course",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2025-05-15T10:02:48.472Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "2",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2025-05-15T10:18:36.810Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "2",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2025-05-15T10:23:04.682Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "2",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2025-05-15T10:23:30.385Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "3",
+    "object_repr": "The Complete AI-Powered Copywriting Course & ChatGPT Course",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2025-05-15T10:24:09.353Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "4",
+    "object_repr": "ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2025-05-15T10:25:03.099Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "5",
+    "object_repr": "Upgrade Your Social Media Presence with ChatGPT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2025-05-15T10:25:44.115Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "6",
+    "object_repr": "Mastering SEO With ChatGPT: Ultimate Beginner's Guide",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2025-05-15T10:26:32.587Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "7",
+    "object_repr": "ChatGPT, Midjourney, DALL-E 3 & APIs - The Complete Guide",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2025-05-15T10:27:39.652Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "7",
+    "object_repr": "ChatGPT, Midjourney, DALL-E 3 & APIs - The Complete Guide",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2025-05-15T10:28:44.492Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "8",
+    "object_repr": "The Data Science Course: Complete Data Science Bootcamp 2025",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 128,
+  "fields": {
+    "action_time": "2025-05-15T10:29:11.069Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "9",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2025-05-15T10:29:56.157Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "10",
+    "object_repr": "R Programming A-Z™: R For Data Science With Real Exercises!",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2025-05-15T10:32:11.007Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "10",
+    "object_repr": "R Programming A-Z™: R For Data Science With Real Exercises!",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2025-05-15T10:32:24.440Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "11",
+    "object_repr": "The Complete Python Bootcamp From Zero to Hero in Python",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2025-05-15T10:32:47.320Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "12",
+    "object_repr": "100 Days of Code: The Complete Python Pro Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2025-05-15T10:33:16.112Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "13",
+    "object_repr": "Automate the Boring Stuff with Python Programming",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2025-05-15T10:33:43.280Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "14",
+    "object_repr": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2025-05-15T10:34:13.490Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "15",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2025-05-15T10:34:20.233Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "15",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2025-05-15T10:34:49.153Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "16",
+    "object_repr": "Machine Learning & Deep Learning in Python & R",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2025-05-16T10:13:40.755Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "2",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 139,
+  "fields": {
+    "action_time": "2025-05-16T10:40:37.750Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "subcategory"
+    ],
+    "object_id": "1",
+    "object_repr": "Data Science → ChatGPT",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 140,
+  "fields": {
+    "action_time": "2025-06-12T10:16:58.559Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "content",
+      "section"
+    ],
+    "object_id": "1",
+    "object_repr": "Complete AI Guide Introduction",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Start Here First (Important Course Details)\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Your First Steps with AI and Effective Prompting\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Creatively Crafting Your Prompts\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"5 Practical GPT Use Cases\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 141,
+  "fields": {
+    "action_time": "2025-06-12T10:25:14.216Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "content",
+      "section"
+    ],
+    "object_id": "2",
+    "object_repr": "ChatGPT: Prompt Engineering and Custom 17 Page Prompting Guide PDF",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Effectively Creating Prompts\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Modifiers for Better Outputs\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Prompt Priming\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Zero, One, and Few Shot Prompting\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Perspective Prompting\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Constructive Critic Prompting\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"I Want You To Act As Prompting\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Client Emails, Analogies, and Bulk Writing\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Ask Before Answer Prompting\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 142,
+  "fields": {
+    "action_time": "2025-06-12T10:27:54.512Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "content",
+      "section"
+    ],
+    "object_id": "3",
+    "object_repr": "ChatGPT: Enhancements, Extensions, and Advanced Features",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Custom Instructions Part 1\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Custom Instructions Part 2\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ChatGPT-4o: Image Input and Output Capabilities\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ChatGPT-4o with Canvas: Interactive Visual Workspace\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ChatGPT-4: DALL-E 3\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ChatGPT Tokens Explained (Older Model)\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ChatGPT: Projects\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 143,
+  "fields": {
+    "action_time": "2025-06-12T10:29:48.721Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "content",
+      "section"
+    ],
+    "object_id": "4",
+    "object_repr": "CustomGPTs: Create Your Own Custom Versions of ChatGPT",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ntroduction to CustomGPTs\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Create Your Own CustomGPT\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"CustomGPTs Case Study: Viral GPT\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"GPT Store\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Create Your Own Business Assistant\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Prompt for CustomGPT Business Assistant\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Retrieval Augmented Generation (RAG): Key to Custom Business Chatbots\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 144,
+  "fields": {
+    "action_time": "2025-06-12T10:31:31.317Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "content",
+      "section"
+    ],
+    "object_id": "5",
+    "object_repr": "ChatGPT Mobile App: Access the Power of ChatGPT from Your Phone",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ChatGPT Mobile App: Overview\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ChatGPT Mobile App: Modes\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ChatGPT Mobile App: Speaking and Listening\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ChatGPT Mobile App: Interface Update\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"ChatGPT: Advanced Voice Capabilities\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 145,
+  "fields": {
+    "action_time": "2025-06-12T10:32:54.656Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "content",
+      "section"
+    ],
+    "object_id": "6",
+    "object_repr": "ChatGPT: How LLM's Work, How GPT Was Trained, and How GPT Generates Outputs",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Intro to LLM's Section\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Overview and Main Types of LLM's\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"How GPT Answers Your Questions\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"What is Transformer Architecture\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 146,
+  "fields": {
+    "action_time": "2025-06-12T10:34:31.208Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "content",
+      "section"
+    ],
+    "object_id": "7",
+    "object_repr": "Microsoft Copilot Introduction: Integrated AI Workflow",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Introduction to Microsoft Copilot\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Microsoft Copilot Features and Functionality\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 147,
+  "fields": {
+    "action_time": "2025-06-12T10:37:54.388Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "content",
+      "section"
+    ],
+    "object_id": "8",
+    "object_repr": "Google Bard (Gemini): Fundamentals and Creative Text Generation",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Gemini Has Replaced Google Bard\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Google Bard (Gemini): Fundamentals Part 1\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Google Bard (Gemini): Fundamentals Part 2\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Google Bard (Gemini): Instantly Gather Web Based Information\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 148,
+  "fields": {
+    "action_time": "2025-06-12T10:39:12.781Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "content",
+      "section"
+    ],
+    "object_id": "9",
+    "object_repr": "Overview: AI Tool Integrations, Combining Multiple Tools, and Free AI Tools",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Intro to Using Multiple AI Tools\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Combining Multiple AI Tools\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Completely Free AI Tools and Resources\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 149,
+  "fields": {
+    "action_time": "2025-06-12T10:40:47.438Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "content",
+      "section"
+    ],
+    "object_id": "10",
+    "object_repr": "Course Conclusion and What's Next",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Congratulations on Completing this Course!\"}}, {\"added\": {\"name\": \"lecture\", \"object\": \"Bonus Lecture\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 150,
+  "fields": {
+    "action_time": "2025-06-12T10:52:26.706Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "1",
+    "object_repr": "Brandon L.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 151,
+  "fields": {
+    "action_time": "2025-06-12T10:53:31.928Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "2",
+    "object_repr": "Sebastian M.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 152,
+  "fields": {
+    "action_time": "2025-06-12T10:53:54.034Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "3",
+    "object_repr": "SM For this price, it should be be more deep in to every course, feel so superficial. I believe if I",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 153,
+  "fields": {
+    "action_time": "2025-06-12T10:54:19.329Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "4",
+    "object_repr": "Chris A.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 154,
+  "fields": {
+    "action_time": "2025-06-12T10:54:50.699Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "5",
+    "object_repr": "CA Amazing coarse! I have been part of amazing brands. Anyone who is serious about learning what’s o",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 155,
+  "fields": {
+    "action_time": "2025-06-12T10:55:15.531Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "6",
+    "object_repr": "Andrew S.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 156,
+  "fields": {
+    "action_time": "2025-06-12T10:55:42.684Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "7",
+    "object_repr": "Bryan F.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 157,
+  "fields": {
+    "action_time": "2025-06-12T10:56:19.547Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "8",
+    "object_repr": "Waqqas M.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 158,
+  "fields": {
+    "action_time": "2025-06-12T10:57:26.653Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "9",
+    "object_repr": "William D S.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 159,
+  "fields": {
+    "action_time": "2025-06-12T10:57:46.341Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "10",
+    "object_repr": "Wayne S.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 160,
+  "fields": {
+    "action_time": "2025-06-12T10:58:34.859Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "3",
+    "object_repr": "Antonio V.",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 161,
+  "fields": {
+    "action_time": "2025-06-12T10:59:05.573Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "review"
+    ],
+    "object_id": "5",
+    "object_repr": "Noriko K.",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 162,
+  "fields": {
+    "action_time": "2025-06-13T04:50:41.149Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "2",
+    "object_repr": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 163,
+  "fields": {
+    "action_time": "2025-06-13T04:50:53.126Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "3",
+    "object_repr": "The Complete AI-Powered Copywriting Course & ChatGPT Course",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 164,
+  "fields": {
+    "action_time": "2025-06-13T04:54:44.302Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "4",
+    "object_repr": "ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 165,
+  "fields": {
+    "action_time": "2025-06-13T04:55:15.895Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "4",
+    "object_repr": "ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 166,
+  "fields": {
+    "action_time": "2025-06-13T04:55:42.970Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "4",
+    "object_repr": "ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 167,
+  "fields": {
+    "action_time": "2025-06-13T04:56:18.459Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "4",
+    "object_repr": "ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 168,
+  "fields": {
+    "action_time": "2025-06-13T04:59:54.259Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "5",
+    "object_repr": "Upgrade Your Social Media Presence with ChatGPT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 169,
+  "fields": {
+    "action_time": "2025-06-13T05:00:16.750Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "6",
+    "object_repr": "Mastering SEO With ChatGPT: Ultimate Beginner's Guide",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 170,
+  "fields": {
+    "action_time": "2025-06-13T05:00:45.928Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "7",
+    "object_repr": "ChatGPT, Midjourney, DALL-E 3 & APIs - The Complete Guide",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 171,
+  "fields": {
+    "action_time": "2025-06-13T05:01:10.789Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "8",
+    "object_repr": "The Data Science Course: Complete Data Science Bootcamp 2025",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 172,
+  "fields": {
+    "action_time": "2025-06-13T05:01:44.776Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "9",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 173,
+  "fields": {
+    "action_time": "2025-06-13T05:02:57.540Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "10",
+    "object_repr": "R Programming A-Z™: R For Data Science With Real Exercises!",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 174,
+  "fields": {
+    "action_time": "2025-06-13T05:03:28.713Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "11",
+    "object_repr": "The Complete Python Bootcamp From Zero to Hero in Python",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 175,
+  "fields": {
+    "action_time": "2025-06-13T05:03:50.892Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "12",
+    "object_repr": "100 Days of Code: The Complete Python Pro Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 176,
+  "fields": {
+    "action_time": "2025-06-13T05:04:18.573Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "13",
+    "object_repr": "Automate the Boring Stuff with Python Programming",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 177,
+  "fields": {
+    "action_time": "2025-06-13T05:04:45.548Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "14",
+    "object_repr": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 178,
+  "fields": {
+    "action_time": "2025-06-13T05:05:16.662Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "15",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 179,
+  "fields": {
+    "action_time": "2025-06-13T05:05:44.144Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "16",
+    "object_repr": "Machine Learning & Deep Learning in Python & R",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\", \"Video\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 180,
+  "fields": {
+    "action_time": "2025-06-13T05:07:38.622Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "15",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 181,
+  "fields": {
+    "action_time": "2025-06-13T05:40:02.174Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "4",
+    "object_repr": "ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 182,
+  "fields": {
+    "action_time": "2025-06-13T05:40:09.846Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "5",
+    "object_repr": "Upgrade Your Social Media Presence with ChatGPT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 183,
+  "fields": {
+    "action_time": "2025-06-13T05:40:25.318Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "6",
+    "object_repr": "Mastering SEO With ChatGPT: Ultimate Beginner's Guide",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 184,
+  "fields": {
+    "action_time": "2025-06-13T05:40:36.390Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "7",
+    "object_repr": "ChatGPT, Midjourney, DALL-E 3 & APIs - The Complete Guide",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 185,
+  "fields": {
+    "action_time": "2025-06-13T05:40:43.142Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "8",
+    "object_repr": "The Data Science Course: Complete Data Science Bootcamp 2025",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 186,
+  "fields": {
+    "action_time": "2025-06-13T05:40:52.231Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "9",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 187,
+  "fields": {
+    "action_time": "2025-06-13T05:41:00.037Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "10",
+    "object_repr": "R Programming A-Z™: R For Data Science With Real Exercises!",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 188,
+  "fields": {
+    "action_time": "2025-06-13T05:41:10.207Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "10",
+    "object_repr": "R Programming A-Z™: R For Data Science With Real Exercises!",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 189,
+  "fields": {
+    "action_time": "2025-06-13T05:41:16.759Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "11",
+    "object_repr": "The Complete Python Bootcamp From Zero to Hero in Python",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 190,
+  "fields": {
+    "action_time": "2025-06-13T05:41:24.902Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "12",
+    "object_repr": "100 Days of Code: The Complete Python Pro Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 191,
+  "fields": {
+    "action_time": "2025-06-13T05:41:30.069Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "13",
+    "object_repr": "Automate the Boring Stuff with Python Programming",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 192,
+  "fields": {
+    "action_time": "2025-06-13T05:41:38.023Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "13",
+    "object_repr": "Automate the Boring Stuff with Python Programming",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 193,
+  "fields": {
+    "action_time": "2025-06-13T05:41:47.318Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "14",
+    "object_repr": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 194,
+  "fields": {
+    "action_time": "2025-06-13T05:41:58.015Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "15",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 195,
+  "fields": {
+    "action_time": "2025-06-13T05:42:06.831Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "16",
+    "object_repr": "Machine Learning & Deep Learning in Python & R",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 196,
+  "fields": {
+    "action_time": "2025-06-13T05:42:15.272Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "14",
+    "object_repr": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 197,
+  "fields": {
+    "action_time": "2025-06-16T09:20:20.828Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "services",
+      "servicecategory"
+    ],
+    "object_id": "1",
+    "object_repr": "Professional Services",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 198,
+  "fields": {
+    "action_time": "2025-06-16T09:20:32.740Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "services",
+      "servicecategory"
+    ],
+    "object_id": "2",
+    "object_repr": "Manufacturing",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 199,
+  "fields": {
+    "action_time": "2025-06-16T09:20:39.036Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "services",
+      "servicecategory"
+    ],
+    "object_id": "3",
+    "object_repr": "Technology",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 200,
+  "fields": {
+    "action_time": "2025-06-16T09:20:49.684Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "services",
+      "servicecategory"
+    ],
+    "object_id": "4",
+    "object_repr": "Financial Services",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 201,
+  "fields": {
+    "action_time": "2025-06-16T09:25:52.849Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "services",
+      "service"
+    ],
+    "object_id": "1",
+    "object_repr": "Driving profitability through faster staffing and cost optimization",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 202,
+  "fields": {
+    "action_time": "2025-06-16T09:27:11.404Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "services",
+      "service"
+    ],
+    "object_id": "2",
+    "object_repr": "Achieve end-to-end supply chain excellence",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 203,
+  "fields": {
+    "action_time": "2025-06-16T09:28:27.460Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "services",
+      "service"
+    ],
+    "object_id": "3",
+    "object_repr": "Innovate faster with employees certified on in-demand skills",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 204,
+  "fields": {
+    "action_time": "2025-06-16T09:29:57.838Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "services",
+      "service"
+    ],
+    "object_id": "4",
+    "object_repr": "Grow the bottom line with investments in employee skills",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 205,
+  "fields": {
+    "action_time": "2025-06-18T11:48:47.671Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "courses",
+      "course"
+    ],
+    "object_id": "15",
+    "object_repr": "Python for Data Science and Machine Learning Bootcamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 206,
+  "fields": {
+    "action_time": "2025-06-19T06:09:26.240Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "1",
+    "object_repr": "Booz Allen Hamilton Unlocks Talent Retention and Productivity Through Upskilling",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 207,
+  "fields": {
+    "action_time": "2025-06-19T06:09:52.555Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "2",
+    "object_repr": "Capital One Accelerates Transformational Learning through Udemy Business",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 208,
+  "fields": {
+    "action_time": "2025-06-19T06:10:21.203Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "3",
+    "object_repr": "Eventbrite Navigates Change Through Skill-Building and Leadership Development",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 209,
+  "fields": {
+    "action_time": "2025-06-19T06:10:48.891Z",
+    "user": [
+      "udemy"
+    ],
+    "content_type": [
+      "testimonial",
+      "story"
+    ],
+    "object_id": "4",
+    "object_repr": "Toyota Tsusho Enhances its L&D Program to Improve Employee Outcomes",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+}
+]
