@@ -69,7 +69,7 @@ WSGI_APPLICATION = 'udemy.wsgi.application'
 
 DATABASES = {
     'default': dj_database_url.config(
-        default='postgresql://udemy:udemy123@localhost/udemy1db',
+        default=os.environ.get('DATABASE_URL'),
         conn_max_age=600
     )
 }
