@@ -2,6 +2,7 @@ from rest_framework import serializers
 
 CLOUD_NAME = "djptbf0iw"
 
+
 class CloudinaryURLField(serializers.Field):
 
     def __init__(self, resource_type="image", *args, **kwargs):
@@ -18,7 +19,7 @@ class CloudinaryURLField(serializers.Field):
             return url
 
         public_id = url.rsplit(".", 1)[0]
-        
+
         public_id = public_id.replace(".5-star", "5-star")
 
         return f"https://res.cloudinary.com/{CLOUD_NAME}/{self.resource_type}/upload/{public_id}"
