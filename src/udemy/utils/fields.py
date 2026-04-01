@@ -8,15 +8,14 @@ class CloudinaryURLField(serializers.Field):
         self.resource_type = resource_type
         super().__init__(*args, **kwargs)
 
+
     def to_representation(self, value):
-        if not value:
-            return None
+    if not value:
+        return None
 
-        url = str(value)
+    url = str(value)
 
-        if url.startswith("http"):
-            return url
+    if url.startswith("http"):
+        return url
 
-        public_id = url.rsplit(".", 1)[0]
-        
-        return f"https://res.cloudinary.com/{CLOUD_NAME}/{self.resource_type}/upload/{public_id}"
+    return f"https://res.cloudinary.com/{CLOUD_NAME}/{self.resource_type}/upload/{url}"
