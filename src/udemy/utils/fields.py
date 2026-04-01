@@ -28,4 +28,5 @@ class CloudinaryURLField(serializers.Field):
         if filename in CLOUDINARY_MAP:
             public_id = CLOUDINARY_MAP[filename]
             return f"https://res.cloudinary.com/{CLOUD_NAME}/{self.resource_type}/upload/{public_id}"
+        
         return f"https://res.cloudinary.com/{CLOUD_NAME}/{self.resource_type}/upload/{url}"
