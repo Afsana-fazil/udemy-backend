@@ -9,12 +9,16 @@ class CloudinaryURLField(serializers.Field):
         super().__init__(*args, **kwargs)
 
     def to_representation(self, value):
-        if not value:
-            return None
+    if not value:
+        return None
 
-        url = str(value)
+    url = str(value)
 
-        if url.startswith("http"):
-            return url
+    if url.startswith("http"):
+        return url
 
-        return f"https://res.cloudinary.com/{CLOUD_NAME}/{self.resource_type}/upload/{url}"
+    public_id = url.rsplit(".", 1)[0]
+    
+    public_id = public_id.replace(".5-star", "5-star")
+
+    return f"https://res.cloudinary.com/{CLOUD_NAME}/{self.resource_type}/upload/{public_id}"
