@@ -20,14 +20,16 @@ for model in apps.get_models():
                         try:
                             response = cloudinary.uploader.upload(
                                 file_path,
-                                resource_type="auto"
+                                resource_type="auto",
+                                public_id=str(file_field).replace("media/", "").rsplit(".", 1)[0],  # 🔥 KEEP ORIGINAL PATH
+                                overwrite=True
                             )
 
                             # update DB with Cloudinary URL
-                            setattr(obj, field.name, response['secure_url'])
+                            setattr(obj, field.name, response['public_id'])
                             obj.save()
 
-                            print(f"Updated: {response['secure_url']}")
+                            print(f"Updated: {response['public_id']}")
 
                         except Exception as e:
                             print(f"Error: {e}")
