@@ -21,7 +21,7 @@ for model in apps.get_models():
                             response = cloudinary.uploader.upload(
                                 file_path,
                                 resource_type="auto",
-                                public_id=str(file_field).replace("media/", "").rsplit(".", 1)[0],  # 🔥 KEEP ORIGINAL PATH
+                                public_id=str(file_field).replace("media/", "").rsplit(".", 1)[0],
                                 overwrite=True
                             )
 
