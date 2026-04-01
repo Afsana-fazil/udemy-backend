@@ -10,6 +10,7 @@ gunicorn==25.3.0
 inflection==0.5.1
 packaging==25.0
 pillow==11.2.1
+cloudinary
 psycopg2-binary==2.9.9
 PyJWT==2.9.0
 python-decouple==3.8
