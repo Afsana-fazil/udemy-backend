@@ -1,0 +1,20 @@
+from rest_framework import serializers
+
+class CloudinaryURLField(serializers.Field):
+    def __init__(self, resource_type="image", *args, **kwargs):
+        self.resource_type = resource_type
+        super().__init__(*args, **kwargs)
+
+    def to_representation(self, value):
+        if not value:
+            return None
+
+        url = str(value)
+
+        # already correct
+        if url.startswith("http"):
+            return url
+
+        cloud_name = "djptbf0iw"
+
+        return f"https://res.cloudinary.com/{cloud_name}/{self.resource_type}/upload/{url}"

@@ -20,8 +20,15 @@ from rest_framework import viewsets
 from datetime import timedelta
 from django.shortcuts import get_object_or_404
 
+# ✅ IMPORT THIS
+from utils.fields import CloudinaryURLField
+
+
+# ------------------ VIDEO ------------------
 
 class VideoSerializer(serializers.ModelSerializer):
+    video = CloudinaryURLField(resource_type="video")
+
     class Meta:
         model = Video
         fields = '__all__'
@@ -32,6 +39,8 @@ class VideoProgressSerializer(serializers.ModelSerializer):
         model = VideoProgress
         fields = '__all__'
 
+
+# ------------------ CATEGORY ------------------
 
 class MainCategorySerializer(serializers.ModelSerializer):
     class Meta:
@@ -56,6 +65,8 @@ class SubCategorySerializer(serializers.ModelSerializer):
         fields = '__all__'
 
 
+# ------------------ REVIEWS ------------------
+
 class CourseReviewSerializer(serializers.ModelSerializer):
     user_name = serializers.CharField(source='user.first_name', read_only=True)
     
@@ -65,6 +76,8 @@ class CourseReviewSerializer(serializers.ModelSerializer):
         read_only_fields = ['user']
 
 
+# ------------------ COURSE ------------------
+
 class CourseSerializer(serializers.ModelSerializer):
     main_category = serializers.CharField(source='sub_category.main_category.name', read_only=True)
     sub_category_name = serializers.CharField(source='sub_category.name', read_only=True)
@@ -72,21 +85,24 @@ class CourseSerializer(serializers.ModelSerializer):
     total_reviews = serializers.ReadOnlyField()
     purchased = serializers.SerializerMethodField()
     progress = serializers.SerializerMethodField()
+
     videos = VideoSerializer(many=True, read_only=True)
     course_reviews = CourseReviewSerializer(many=True, read_only=True)
+
     sub_category = serializers.PrimaryKeyRelatedField(queryset=SubCategory.objects.all())
-    image = serializers.ImageField(required=True)
+
+    # ✅ FIXED FIELDS
+    image = CloudinaryURLField(resource_type="image")
+    video = CloudinaryURLField(resource_type="video")
+
     title = serializers.CharField(required=True)
     description = serializers.CharField(required=True)
     price = serializers.DecimalField(max_digits=8, decimal_places=0, required=True)
     created_by = serializers.CharField(required=True)
-    video = serializers.FileField(required=False, allow_null=True)
 
     class Meta:
         model = Course
         fields = '__all__'
-        # Add sub_category_name to the output
-        extra_fields = ['sub_category_name']
 
     def validate(self, data):
         errors = {}
@@ -115,9 +131,13 @@ class CourseSerializer(serializers.ModelSerializer):
         return 0
 
 
+# ------------------ PURCHASE ------------------
+
 class CoursePurchaseSerializer(serializers.ModelSerializer):
     course_title = serializers.CharField(source='course.title', read_only=True)
-    course_image = serializers.CharField(source='course.image', read_only=True)
+
+    # ✅ FIXED
+    course_image = CloudinaryURLField(resource_type="image", source='course.image', read_only=True)
     
     class Meta:
         model = CoursePurchase
@@ -125,15 +145,21 @@ class CoursePurchaseSerializer(serializers.ModelSerializer):
         read_only_fields = ['user']
 
 
+# ------------------ PROGRESS ------------------
+
 class CourseProgressSerializer(serializers.ModelSerializer):
     course_title = serializers.CharField(source='course.title', read_only=True)
-    course_image = serializers.CharField(source='course.image', read_only=True)
+
+    # ✅ FIXED
+    course_image = CloudinaryURLField(resource_type="image", source='course.image', read_only=True)
     
     class Meta:
         model = CourseProgress
         fields = ['id', 'course', 'course_title', 'course_image', 'progress_percentage', 'completed_videos', 'total_videos', 'last_accessed']
         read_only_fields = ['user']
 
+
+# ------------------ CART ------------------
 
 class CartItemSerializer(serializers.ModelSerializer):
     course = CourseSerializer(read_only=True)
@@ -145,6 +171,9 @@ class CartItemSerializer(serializers.ModelSerializer):
         model = CartItem
         fields = ['id', 'course', 'course_id', 'added_at']
 
+
+# ------------------ WISHLIST ------------------
+
 class WishlistItemSerializer(serializers.ModelSerializer):
     course = CourseSerializer(read_only=True)
     course_id = serializers.PrimaryKeyRelatedField(
@@ -155,17 +184,8 @@ class WishlistItemSerializer(serializers.ModelSerializer):
         model = WishlistItem
         fields = ['id', 'course', 'course_id', 'added_at']
 
-def update_progress(self):
-    total_videos = self.course.videos.count()
-    completed_videos = VideoProgress.objects.filter(
-        user=self.user,
-        video__course=self.course,
-        is_completed=True
-    ).count()
-    self.total_videos = total_videos
-    self.completed_videos = completed_videos
-    self.progress_percentage = (completed_videos / total_videos * 100) if total_videos > 0 else 0
-    self.save()
+
+# ------------------ VIDEO VIEWSET ------------------
 
 class VideoViewSet(viewsets.ModelViewSet):
     queryset = Video.objects.all()
@@ -183,13 +203,14 @@ class VideoViewSet(viewsets.ModelViewSet):
         if not created:
             progress.is_completed = True
             progress.save()
-        # Update course progress
+
         course_progress, created = CourseProgress.objects.get_or_create(
             user=request.user,
             course=video.course,
             defaults={'progress_percentage': 0, 'completed_videos': 0, 'total_videos': video.course.videos.count()}
         )
         course_progress.update_progress()
+
         return Response({
             'message': 'Video marked as completed',
             'progress': float(course_progress.progress_percentage)
@@ -199,26 +220,31 @@ class VideoViewSet(viewsets.ModelViewSet):
     def update_progress(self, request, pk=None):
         video = get_object_or_404(Video, pk=pk)
         current_time = request.data.get('current_time', 0)
+
         progress, created = VideoProgress.objects.get_or_create(
             user=request.user,
             video=video,
             defaults={'watched_duration': timedelta(seconds=current_time)}
         )
+
         if not created:
             progress.watched_duration = timedelta(seconds=current_time)
             progress.save()
-        # Auto-complete if watched more than 90%
+
         video_duration = video.duration.total_seconds() if video.duration else 0
+
         if video_duration and current_time / video_duration > 0.9 and not progress.is_completed:
             progress.is_completed = True
             progress.save()
             course_progress = CourseProgress.objects.get(user=request.user, course=video.course)
             course_progress.update_progress()
+
         return Response({
             'message': 'Progress updated',
             'watched_duration': current_time,
             'is_completed': progress.is_completed
         })
+
 
 class VideoProgressViewSet(viewsets.ModelViewSet):
     queryset = VideoProgress.objects.all()

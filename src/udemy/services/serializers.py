@@ -1,5 +1,6 @@
 from rest_framework import serializers
 from .models import ServiceCategory, Service
+from utils.fields import CloudinaryURLField
 
 class ServiceCategorySerializer(serializers.ModelSerializer):
     class Meta:
@@ -8,6 +9,7 @@ class ServiceCategorySerializer(serializers.ModelSerializer):
 
 class ServiceSerializer(serializers.ModelSerializer):
     service_category = serializers.PrimaryKeyRelatedField(read_only=True)
+    image = CloudinaryURLField(resource_type="image")
 
     class Meta:
         model = Service
